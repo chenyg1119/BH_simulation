@@ -1,0 +1,22 @@
+channels:
+  - defaults
+dependencies:
+  - Qtconsole
+  - Rope
+  - Pyflakes
+  - Sphinx
+  - Pygments
+  - Pylint
+  - Pycodestyle
+  - Psutil
+  - Nbconvert
+  - Qtawesome
+  - Pickleshare
+  - PyZMQ
+  - QtPy
+  - Chardet
+  - Numpydoc
+  - Cloudpickle
+  - Matplotlib
+  - Pandas
+  - Cython
